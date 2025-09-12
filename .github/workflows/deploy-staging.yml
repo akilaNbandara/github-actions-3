@@ -6,8 +6,8 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: akilaNbandara-azure-ttt
   AZURE_WEBAPP_NAME: akilaNbandara-ttt-app
+  DOCKER_IMAGE_NAME: akilaNbandara-azure-ttt
 
 jobs:
   build:
